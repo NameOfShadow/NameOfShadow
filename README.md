@@ -1,16 +1,72 @@
-## Hi there 👋
+<p align="center">
+  <img src="./header.png" alt="Hello world, I'm Shadow!" width="100%">
+</p>
 
-<!--
-**NameOfShadow/NameOfShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">NameOfShadow</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Security Engineering • Systems Programming • Infrastructure</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm Damir Anglickas, an Information Security student based in Kaliningrad. 
+
+I build performance-critical software, experiment with infrastructure, and explore cybersecurity through national competitions, homelabs, and open-source development.
+
+### Highlights
+
+* 🏆 **Regional Champion** — Corporate Threat Defense & Information Security
+* 🥈 **Prize Winner (Silver)** — National Final of the "Professionals" Championship 2026
+* 🏅 **Top 10** — Interregional Stage (9th place nationwide)
+* 🐧 Linux daily driver & kernel enthusiast
+* 🦀 Passionate Rust systems developer
+
+### Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,python,linux,docker,git,postgres,nginx,bash" />
+</p>
+
+### 📈 Metrics & GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/NameOfShadow">
+    <img src="https://github-readme-stats.vercel.app/api?username=NameOfShadow&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" height="150" alt="Damir's GitHub Stats" />
+  </a>
+  <a href="https://github.com/NameOfShadow">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NameOfShadow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=NameOfShadow&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+### Current Focus
+
+* Infrastructure & Enterprise Security (Blue Team)
+* Application Security (AppSec) & DevSecOps
+* Linux Internals & Network Protocols
+* Asynchronous Systems Programming in Rust
+
+### Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| 🦀 **[rfast](https://github.com/NameOfShadow/rfast)** | High-performance Rust script runner with instant SHA-256 caching and dynamic dependency management. |
+| 🌐 **[rust-mc-status](https://github.com/NameOfShadow/rust-mc-status)** | Asynchronous, zero-allocation network protocol library with native DNS/SRV resolving (2.7k+ downloads). |
+| 👁️ **[lupa](https://github.com/NameOfShadow/lupa)** | Interactive state and object inspector for Rust applications with Web UI and TUI modules. |
+
+### Contact
+
+* **Telegram:** [@angliczkas](https://t.me/angliczkas)
+* **Email:** [anglickasdamir@gmail.com](mailto:anglickasdamir@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/badgecounter/toggle/?username=NameOfShadow&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Views" />
+</p>
+
+> Build it. Break it. Understand it.
