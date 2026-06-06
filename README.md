@@ -6,11 +6,13 @@
 
 <p align="center">
   <strong>Security Engineering • Systems Programming • Infrastructure</strong>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=NameOfShadow&style=flat-square&color=7aa2f7" alt="Profile views" />
 </p>
 
 ---
 
-I'm Damir Anglickas, an Information Security student based in Kaliningrad. 
+I'm Damir Anglickas, an Information Security student based in Kaliningrad.
 
 I build performance-critical software, experiment with infrastructure, and explore cybersecurity through national competitions, homelabs, and open-source development.
 
@@ -30,13 +32,8 @@ I build performance-critical software, experiment with infrastructure, and explo
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/NameOfShadow">
-    <img src="https://github-readme-stats.vercel.app/api?username=NameOfShadow&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&v=1" height="150" alt="Damir's GitHub Stats" />
-  </a>
-  <a href="https://github.com/NameOfShadow">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NameOfShadow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&v=1" height="150" alt="Top Languages" />
-  </a>
+<p align="center">
+  <img src="https://githubcard.com/NameOfShadow.svg?d=oYrVBYe7" alt="GitHub Stats Card" />
 </p>
 
 ### Current Focus
@@ -60,9 +57,5 @@ I build performance-critical software, experiment with infrastructure, and explo
 * **Email:** [anglickasdamir@gmail.com](mailto:anglickasdamir@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NameOfShadow.NameOfShadow" alt="Profile views" />
-</p>
 
 > Build it. Break it. Understand it.
