@@ -28,19 +28,15 @@ I build performance-critical software, experiment with infrastructure, and explo
   <img src="https://skillicons.dev/icons?i=rust,python,linux,docker,git,postgres,nginx,bash" />
 </p>
 
-### 📈 Metrics & GitHub Stats
+### 📈 GitHub Stats
 
 <p align="left">
   <a href="https://github.com/NameOfShadow">
-    <img src="https://github-readme-stats.vercel.app/api?username=NameOfShadow&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" height="150" alt="Damir's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NameOfShadow&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&v=1" height="150" alt="Damir's GitHub Stats" />
   </a>
   <a href="https://github.com/NameOfShadow">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NameOfShadow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NameOfShadow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&v=1" height="150" alt="Top Languages" />
   </a>
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NameOfShadow&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ### Current Focus
@@ -66,7 +62,7 @@ I build performance-critical software, experiment with infrastructure, and explo
 ---
 
 <p align="center">
-  <img src="https://komarev.com/badgecounter/toggle/?username=NameOfShadow&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NameOfShadow.NameOfShadow" alt="Profile views" />
 </p>
 
 > Build it. Break it. Understand it.
