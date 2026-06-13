@@ -6,8 +6,6 @@
 
 <p align="center">
   <strong>Security Engineering • Systems Programming • Infrastructure</strong>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=NameOfShadow&style=flat-square&color=7aa2f7" alt="Profile views" />
 </p>
 
 ---
