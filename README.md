@@ -19,8 +19,6 @@ I build performance-critical software, experiment with infrastructure, and explo
 * 🏆 **Regional Champion** — Corporate Threat Defense & Information Security
 * 🥈 **Prize Winner (Silver)** — National Final of the "Professionals" Championship 2026
 * 🏅 **Top 10** — Interregional Stage (9th place nationwide)
-* 🐧 Linux daily driver & kernel enthusiast
-* 🦀 Passionate Rust systems developer
 
 ### Technologies
 
